@@ -20,9 +20,9 @@ Currrently studing Machine Learning, in particular:
 ---
 ## Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CavenaghiEmanuele&repo=REILLY&hide_border=true&theme=great-gatsby)](https://github.com/CavenaghiEmanuele/REILLY/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CavenaghiEmanuele&repo=REILLY&hide_border=true&theme=great-gatsby)](https://github.com/CavenaghiEmanuele/REILLY)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madlabunimib&repo=MADBayes&hide_border=true&theme=great-gatsby))](https://github.com/madlabunimib/MADBayes/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madlabunimib&repo=MADBayes&hide_border=true&theme=great-gatsby))](https://github.com/madlabunimib/MADBayes)
 
 <br/>
 
@@ -30,30 +30,30 @@ Currrently studing Machine Learning, in particular:
 
 ## Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />][visualstudiocode] 
-
-[<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
-
 [<img align="left" alt="git" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
 
 [<img align="left" alt="github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 [<img align="left" alt="gitlab" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 
-[<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
-
-
-[<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
-
-[<img align="left" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][c]
+[<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />][visualstudiocode] 
 
 [<img align="left" alt="tensorflow" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />][tensorflow]
 
 [<img align="left" alt="Keras" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keras.svg" />][keras]
 
+[<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+
+[<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
+
+[<img align="left" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][c]
+
+[<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][mysql]
+
+
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CavenaghiEmanuele&hide_border=true&theme=great-gatsby&card_width=1000&hide_title=true)](https://github.com/CavenaghiEmanuele/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CavenaghiEmanuele&hide_border=true&theme=great-gatsby&card_width=1000&hide_title=true)](https://github.com/CavenaghiEmanuele)
 
 
 
