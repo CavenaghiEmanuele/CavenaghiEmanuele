@@ -26,6 +26,7 @@ Currrently studing Machine Learning, in particular:
 
 <br/>
 
+---
 
 ## Languages and Tools:
 
@@ -54,12 +55,6 @@ Currrently studing Machine Learning, in particular:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CavenaghiEmanuele&hide_border=true&theme=great-gatsby&card_width=1000&hide_title=true)](https://github.com/CavenaghiEmanuele/github-readme-stats)
 
-
-
-<br />
-
-
----
 
 
 [linkedin]: https://www.linkedin.com/in/emanuele-cavenaghi-59b53a121
