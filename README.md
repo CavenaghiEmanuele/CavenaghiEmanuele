@@ -24,6 +24,8 @@ Currrently studing Machine Learning, in particular:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madlabunimib&repo=MADBayes&hide_border=true&theme=great-gatsby))](https://github.com/madlabunimib/MADBayes)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CavenaghiEmanuele&repo=Multi-armed-bandit&hide_border=true&theme=great-gatsby))](https://github.com/CavenaghiEmanuele/Multi-armed-bandit)
+
 <br/>
 
 ---
