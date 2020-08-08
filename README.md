@@ -8,9 +8,11 @@ Studing Computer Science at **Università degli Studi di Milano-Bicocca** (Maste
 Currrently studing Machine Learning, in particular:
 
 * Reinforcement Learning
+* Multi-armed bandits
 * Bayesian Networks
 * Causal Networks
 * Neural Nets
+
 
 ---
 <center>
